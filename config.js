@@ -9,9 +9,9 @@ const CONFIG = {
     btnNo: 'No way :3',
     question: 'Do you enjoy our moments together? (ANSWER!!)',
     btnReply: 'Send to you <3',
-    reply: 'YES! I REALLY DO! Wait... this is not what I typed :<< Oh well, I actually mean it when I said YES!',
+    reply: 'back then bitaw, I always anticipated your presence  sa Roblox because truth be told, I really wanted to play with you HAHAHHAAH! I usually checked if you were online and if you were, maghilom hilom rako kay torpe man si me. But now that I can invite you freely to any game, I am really really glad our relationship upgraded to the next Level (murag Level 3 na ni eyyyy). For the days that I couldnt catch up with you or the days where I fall short because I didnt meet your expectations. But yes, truth be told, I really enjoy our moments together hehehe',
     mess: 'I KNEWWW ITTT! mwaaa hehehe',
-    messDesc: 'Click "Direct me to my top 2 song hehehe',
+    messDesc: 'Click "Direct me to my top 2 song hehehe"',
     btnAccept: 'Direct me to my top 2 song hehehe',
     messLink: 'https://www.youtube.com/watch?v=Is4lgBBGPDM' //link to your messages. e.g., https://www.facebook.com/messages/t/100014188333536
 }
