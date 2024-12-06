@@ -9,8 +9,8 @@ const CONFIG = {
     btnNo: 'No way :3',
     question: 'Do you enjoy our moments together? (oh, this is going to be long...)',
     btnReply: 'Send this to gill <3',
-    reply: 'back then bitaw, I always anticipated your presence  sa Roblox because truth be told, I really wanted to play with you HAHAHHAAH! I usually checked if you were online and if you were, maghilom hilom rako kay torpe man si me. But now that I can invite you freely to any game, I am really really glad our relationship upgraded to the next Level (murag Level 3 na ni eyyyy). For the days that I couldnt catch up with you or the days where I fall short because I didnt meet your expectations. But yes, truth be told, I really enjoy our moments together hehehe',
-    mess: 'I KNEWWW ITTT! mwaaa hehehe',
+    reply: 'Hiii, dont be too stressed out okay?? I am always here for you, and if you need any help, I always got ya back. Alsoo, I REALLY REALLY ENJOY enjoy our moments together hehehe',
+    mess: 'I KNEWWW ITTT! mwaaa grabe ka na trixie ahhh',
     messDesc: 'Click the button below for a surpriseee!! (or is it? mwhehehehe)',
     btnAccept: 'SUPRISEEEEE!',
     messLink: 'https://sayonara-bye69.github.io/vids-/' 
