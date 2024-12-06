@@ -9,8 +9,8 @@ const CONFIG = {
     btnNo: 'No way :3',
     question: 'If you type something right now, it is prolly a ghost typing some words wooooooo',
     btnReply: 'Send this to Trixie <3',
-    reply: 'Hiii, dont be too stressed out okay?? I am always here for you, and if you need any help, I always got ya back. Alsoo, I REALLY REALLY ENJOY enjoy our moments together hehehe',
-    mess: 'I KNEWWW ITTT! mwaaa grabe ka na trixie ahhh',
+    reply: 'Hiii, dont be too stressed out okay?? I am always here for you, and if you need any help, I always got ya back. Alsoo, I REALLY REALLY ENJOY our moments together hehehe',
+    mess: 'I KNEWWW ITTT! mwaaa grabe ka na ahhh',
     messDesc: 'Click the button below for a surpriseee!! (or is it? mwhehehehe)',
     btnAccept: 'SUPRISEEEEE!',
     messLink: 'https://sayonara-bye69.github.io/vids-/' 
