@@ -1,7 +1,7 @@
 const CONFIG = {
     titleWeb: "HIII :>",
     introTitle: 'Hi Trixie ;>>',
-    introDesc: `It's my first time making this (kahapon lang ni actually), I hope you like it:>`,
+    introDesc: `IM BACK AGAINNN, but this time I added a little twist at the end hehe. Can you guess it? :>`,
     btnIntro: '^^HiHi^^',
     title: 'I heard you like Nothing by Bruno Major, so here is a little something :>',
     desc: 'mwehehehee',
