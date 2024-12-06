@@ -13,5 +13,5 @@ const CONFIG = {
     mess: 'I KNEWWW ITTT! mwaaa hehehe',
     messDesc: 'Click the button below for a surpise (or is it? mwhehehehe)',
     btnAccept: 'SUPRISEEEEE!',
-    messLink: 'https://sayonara-bye69.github.io/vids-/' //link to your messages. e.g., https://www.facebook.com/messages/t/100014188333536
+    messLink: 'https://sayonara-bye69.github.io/vids-/' 
 }
